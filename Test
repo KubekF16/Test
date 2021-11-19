@@ -1,3 +1,1 @@
-while true do
-  (game:HttpGet("https://raw.githubusercontent.com/AnonymousErrors/newscripts/main/main.lua"))()
-end 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnonymousErrors/newscripts/main/main.lua"))()
